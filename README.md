@@ -7,7 +7,7 @@ A Linux port built using the postmarketOS kernel (v7.1.x), with custom patches f
 
 ---
 
-![ok_edit](https://github.com/user-attachments/assets/2c77623c-54b7-4644-991a-68832e107c9e)
+![ok_edit](<img width="4377" height="3347" alt="parrot_" src="https://github.com/user-attachments/assets/96acfcf9-a23f-4e4c-962b-9aef4000a7eb" />)
 
 ## 🛠️ Features & Status
 
