@@ -21,8 +21,7 @@ A Linux port built using the postmarketOS kernel (v7.1.x), with custom patches f
 - **Screen Rotation:** In the top-right corner of the panel, you will find an icon named **Rotate**. It rotates both the screen and the touchscreen axes simultaneously.
 - **Gestures:** `touchegg` is configured as a background service. Touching the screen with two fingers acts as a right-click.
 - **On-Screen Keyboard:** Sometimes, the on-screen keyboard may appear twice. This is a known issue.
-- **Swap:** Uses a 1 GB swap file (`/swapfile`). It is recommended to leave it enabled, although you can delete it if storage space becomes critically low. The system may run less smoothly without it.
-
+  
 ---
 
 ## ⚠️ Important Warnings & Partitioning
