@@ -1,0 +1,1 @@
+# Parrot-OS-for-huawei-mediapad-T3-10-agassi
