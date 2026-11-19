@@ -12,7 +12,7 @@ A Linux port built using the postmarketOS kernel (v7.1.x), with custom patches f
 ## 🛠️ Features & Status
 
 - **Audio:** Sound is working (not perfectly, but it works). Check `/usr/local/bin` for audio scripts if you want to improve it.
-- **Volume Issues:** FreeTube audio can sometimes sound strange, with crackling similar to a radio. Use **VacuumTube** instead, which comes pre-installed.
+- **Volume Issues:** FreeTube audio can sometimes sound strange, with crackling similar to a radio. Use **VacuumTube** instead.
 - **Kernel & USB:** Uses the same postmarketOS kernel 7.1 as the Kali Linux port, with Ralink modules and added support for **RTL8812AU**. The `.dtb` is configured for USB host mode, so USB adapters should work.
 - **USB Networking:** Due to the USB host mode modifications, USB networking does not work.
 - **Wi-Fi:** If Wi-Fi does not start, check the `cust` partition on your tablet to locate the necessary `.ko.zst` files.
